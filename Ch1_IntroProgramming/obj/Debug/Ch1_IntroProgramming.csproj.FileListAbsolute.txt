@@ -1,0 +1,10 @@
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\bin\Debug\Ch1_IntroProgramming.exe.config
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\bin\Debug\Ch1_IntroProgramming.exe
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\bin\Debug\Ch1_IntroProgramming.pdb
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.csproj.AssemblyReference.cache
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.IceCreamCost.resources
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.Properties.Resources.resources
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.csproj.GenerateResource.cache
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.exe
+C:\Users\Seth\OneDrive\Desktop\Lauren_code\Lauren_code_c_sharp_dot_net\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.pdb
