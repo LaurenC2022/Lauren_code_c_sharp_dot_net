@@ -7,11 +7,7 @@
       "RelativeMoniker": "D:0:0:{D3267B26-2836-4BD1-AA4E-1906B3423EB3}|Ch1_IntroProgramming.csproj|solutionrelative:icecreamcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3267B26-2836-4BD1-AA4E-1906B3423EB3}|Ch1_IntroProgramming.csproj|c:\\users\\seth\\onedrive\\desktop\\lauren_code\\lauren_code_c_sharp_dot_net\\ch1_introprogramming\\icecreamcost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3267B26-2836-4BD1-AA4E-1906B3423EB3}|Ch1_IntroProgramming.csproj|solutionrelative:icecreamcost.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3267B26-2836-4BD1-AA4E-1906B3423EB3}|Ch1_IntroProgramming.csproj|c:\\users\\seth\\onedrive\\desktop\\lauren_code\\lauren_code_c_sharp_dot_net\\ch1_introprogramming\\icecreamcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D3267B26-2836-4BD1-AA4E-1906B3423EB3}|Ch1_IntroProgramming.csproj|C:\\Users\\Seth\\OneDrive\\Desktop\\Lauren_code\\Lauren_code_c_sharp_dot_net\\Ch1_IntroProgramming\\icecreamcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D3267B26-2836-4BD1-AA4E-1906B3423EB3}|Ch1_IntroProgramming.csproj|solutionrelative:icecreamcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IceCreamCost.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Seth\\OneDrive\\Desktop\\Lauren_code\\Lauren_code_c_sharp_dot_net\\Ch1_IntroProgramming\\IceCreamCost.Designer.cs",
-              "RelativeDocumentMoniker": "IceCreamCost.Designer.cs",
-              "ToolTip": "C:\\Users\\Seth\\OneDrive\\Desktop\\Lauren_code\\Lauren_code_c_sharp_dot_net\\Ch1_IntroProgramming\\IceCreamCost.Designer.cs",
-              "RelativeToolTip": "IceCreamCost.Designer.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAjwIgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T06:44:57.776Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,14 +28,14 @@
               "RelativeDocumentMoniker": "IceCreamCost.cs",
               "ToolTip": "C:\\Users\\Seth\\OneDrive\\Desktop\\Lauren_code\\Lauren_code_c_sharp_dot_net\\Ch1_IntroProgramming\\IceCreamCost.cs",
               "RelativeToolTip": "IceCreamCost.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAewBYAAAAJAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowDIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T06:38:41.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IceCreamCost.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Seth\\OneDrive\\Desktop\\Lauren_code\\Lauren_code_c_sharp_dot_net\\Ch1_IntroProgramming\\IceCreamCost.cs",
               "RelativeDocumentMoniker": "IceCreamCost.cs",
